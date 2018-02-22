@@ -35,3 +35,5 @@
 * `create` - forma su pavadinimo ir teksto laukais
 * `showSingle` - puslapis su antrašte ir tekstu
 * `showAll` - sąrašas su įrašų pavadinimais ir jų sukūrimo datomis
+
+Kiekvienam metodui - atitinkamai naujas `.html` failas, kur kiekvieną saugome naujai sukurtame `resources/views` kataloge.
