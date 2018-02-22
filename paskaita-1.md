@@ -17,7 +17,7 @@
 
 3. [Packagist](https://packagist.org): pagrindinė Composer bibliotekų repozitorija (saugykla)
 
-4. MVC (model-view-controller) patternas ir veikimo principas, privalumai. Gaminame savo minimalų framework'ą pagal MVC.
+4. [MVC (model-view-controller) patternas](https://realpython.com/blog/python/the-model-view-controller-mvc-paradigm-summarized-with-legos/) ir veikimo principas, privalumai. Gaminame savo minimalų framework'ą pagal MVC.
 
 4.1. Pagrindiniai projekto katalogai ir failai:
 
