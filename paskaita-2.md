@@ -26,7 +26,7 @@
 
 8. Controller'io kūrimas naudojant CLI (command line interface): `php artisan make:controller PostsController` bei pagrindiniai veiksmai, kaip tai siejama su route'ais.
 
-9. `view()` funkcija, kintamųjų perdavimas views'ui, jų atvaizdavimas (`{{ $todayDate }}`) ir manipuliavimas (`@foreach` ciklas) naudojantis Blade šablonų varikliuku.
+9. `view()` funkcija, kintamųjų perdavimas views'ui, jų atvaizdavimas (`{{ $todayDate }}`) ir manipuliavimas (`@foreach` ciklas), komentarų rašymas (`{{-- komentaras --}}`) naudojantis Blade šablonų varikliuku.
 
 ## Užduotys
 
