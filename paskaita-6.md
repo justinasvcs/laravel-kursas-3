@@ -6,21 +6,23 @@
 
 ## Apie ką kalbėjome ir ką nuveikėme
 
-1. Eloquent modeliuose esantys mass assignment metodai `create()` ir `fill()` bei `$fillable` ir `$guarded` prasmė whitelistinant arba blacklistinant atributus.
+1. Įkeltas projektas, su kuriuo dirbame paskaitų metu: [CRM](https://github.com/justinasvcs/laravel-3-projektas)
 
-2. Apsivalom kontrolerį nuo nereikalingo kodo.
+2. Eloquent modeliuose esantys mass assignment metodai `create()` ir `fill()` bei `$fillable` ir `$guarded` prasmė whitelistinant arba blacklistinant atributus.
 
-3. Puslapiavimas.
+3. Apsivalom kontrolerį nuo nereikalingo kodo.
 
-4. Middlewares ir request onion, jų kūrimas,  `app/Http/Kernel.php`, kuriame "pajungiame" naujus middlewares prie jau esamų.
+4. Puslapiavimas.
 
-5. Routes grupavimas, `web` ir `api` route grupių skirtumai.
+5. Middlewares ir request onion, jų kūrimas,  `app/Http/Kernel.php`, kuriame "pajungiame" naujus middlewares prie jau esamų.
 
-6. Resurso kūrimas su komanda `php artisan make:model -a Product` ir rezultatai.
+6. Routes grupavimas, `web` ir `api` route grupių skirtumai.
 
-7. `php artisan make:auth` komanda, generuojanti views'us, route'us tam, kad įgalintų vartotojų funkciją. Sugeneruotų ir naudojamų failų aptarimas.
+7. Resurso kūrimas su komanda `php artisan make:model -a Product` ir rezultatai.
 
-8. Tvarkomės esamus viewsus, kad jie išplėstų naujai sugeneruotą šabloną `layouts.app`.
+8. `php artisan make:auth` komanda, generuojanti views'us, route'us tam, kad įgalintų vartotojų funkciją. Sugeneruotų ir naudojamų failų aptarimas.
+
+9. Tvarkomės esamus viewsus, kad jie išplėstų naujai sugeneruotą šabloną `layouts.app`.
 
 ## Užduotys
 
