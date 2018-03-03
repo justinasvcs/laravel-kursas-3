@@ -54,7 +54,7 @@
 
 * paprastas reprezentacinis tinklalapis su minimaliu turinio valdymu, laisva tema
 
-* katalogas / archyvas: lankytinos vietos - gamtiniai objektai, muziejai, etc; restoranai / kavinės; mėgstamiausi klipai / filmai / serialai; muzikos albumai; renginiai; interneto nuorodos ar pan.; etc.
+* katalogas / archyvas: lankytinos vietos - gamtiniai objektai, muziejai, etc; restoranai / kavinės; mėgstamiausi klipai / filmai / serialai; muzikos albumai; renginiai; interneto nuorodos ar pan.; etc
 
 * blog'as / žurnalas, skatinantis rašyti kasdien / užrašinė
 
@@ -62,6 +62,6 @@
 
 * failų saugykla / nuotraukų albumas
 
-* forumas / nišinis socialinis tinklas.
+* forumas / nišinis socialinis tinklas
 
-* e. parduotuvė: prekių katalogas, krepšelis.
+* e. parduotuvė: prekių katalogas, krepšelis
